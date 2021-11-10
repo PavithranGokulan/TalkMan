@@ -1,2 +1,2 @@
 # TalkMan
-This is a TalkMan. It repeats what you say to it. It is same like 
+This is a TalkMan. It repeats what you say to it. It is same like Talking Tom
